@@ -1,0 +1,4 @@
+python3-asyncssh: copyright-without-copyright-notice
+python3-asyncssh: initial-upload-closes-no-bugs
+python3-asyncssh: no-manual-page
+python3-asyncssh: zero-byte-file-in-doc-directory
