@@ -8,3 +8,4 @@ build/
 dist/
 docs/Makefile
 docs/_build/
+.pybuild/
