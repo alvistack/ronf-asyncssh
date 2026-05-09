@@ -1,0 +1,5 @@
+python-asyncssh source: file-without-copyright-information
+python-asyncssh source: no-debian-changes
+python-asyncssh source: source-contains-prebuilt-windows-binary
+python-asyncssh source: source-is-missing
+python-asyncssh source: source-package-encodes-python-version
